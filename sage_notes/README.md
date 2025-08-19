@@ -1,4 +1,4 @@
-# [Sage Notes](https://your-username.github.io/SageNotes/)  
+# [Sage Notes](https://05aradhanasingh.github.io/SageNotes/)  
  
 
 A simple and elegant study companion app built with **React + Vite**.  
